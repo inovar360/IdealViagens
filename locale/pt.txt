@@ -1,0 +1,39 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Ideal Viagens
+
+### Title
+tour.name = Sem Título 14
+
+## Skin
+
+### Label
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = DOLOR SIT AMET
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = IDEAL VIAGENS
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = IDEAL VIAGENS
+
+## Media
+
+### Title
+panorama_40D3CEC3_4A49_969B_41C2_4288DF68CBB3.label = 02-DeNoiseAI-low-light
+panorama_40DDD090_4A49_EAB6_41A7_104B5401BBB8.label = 04-DeNoiseAI-low-light
+panorama_40DE0138_4A49_ABF6_41D0_334E837C1DC0.label = 06-DeNoiseAI-low-light
+panorama_40DE411B_4A49_ABAA_41CB_C5353364428D.label = 05-DeNoiseAI-low-light
+panorama_41EB5C53_4A49_B9BB_41B6_A990E7117E2A.label = 01-DeNoiseAI-standard
+
+## Action
+
+### URL
+LinkBehaviour_252C0082_3221_85A9_41C2_355B9B87D5E4.source = https://www.instagram.com/idealviagensgv
+LinkBehaviour_25560A3C_3227_84D8_41C5_4AEA6536F690.source = https://www.facebook.com/idealviagensgv
+LinkBehaviour_2AEAB46F_3222_8D77_418F_AA2E063C4D67.source = https://www.google.com/maps?cid=10542881019112881625&_ga=2.63419628.2110035688.1658968172-784618086.1631383019
+LinkBehaviour_5231ABA8_4ABA_9E96_41D1_E4EB54D7E96A.source = https://www.instagram.com/inovar.360/
+LinkBehaviour_5232DB99_4ABA_9EB7_41B8_97FCC448AE8C.source = https://www.instagram.com/idealviagensgv
+LinkBehaviour_52333B99_4ABA_9EB7_4171_142A6FB11841.source = https://www.google.com/maps?cid=10542881019112881625&_ga=2.63419628.2110035688.1658968172-784618086.1631383019
+LinkBehaviour_52335B99_4ABA_9EB7_41CD_34E58F128E15.source = https://www.facebook.com/idealviagensgv
+LinkBehaviour_52FBC73B_4ACF_97EB_41CB_39D265556503.source = https://api.whatsapp.com/send?phone=553332035010&text=Vim%20do%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es!
+LinkBehaviour_76F3D2C3_6174_B8CF_41D7_C09EF827AB18.source = https://www.instagram.com/inovar.360/
